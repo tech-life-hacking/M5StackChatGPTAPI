@@ -1,0 +1,2 @@
+// OpenAI API Token
+#define OPENAI_TOKEN "YourOPENAI_TOKEN"
